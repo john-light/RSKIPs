@@ -144,7 +144,7 @@ RSK Improvement Proposals
 | 190 |[Powpeg address change audit trail](IPs/RSKIP190.md)|  21-NOV-20 | SDL | Sec | Core | 1 | Draft |
 | 192 |[getTransactionIndex Precompile method](IPs/RSKIP192.md)|  24-NOV-20 | SDL | Usa | Core | 1 | Draft |
 | 194 |[Bloom filter compression](IPs/RSKIP194.md)|  28-NOV-20 | SDL | Sca | Core | 1 | Draft |
-
+| 200 |[Receive headers limits](IPs/RSKIP194.md)|  08-JAN-21 | PGP | Sca,Usa,Sec | Core | 2 | Draft |
 
 (*) Under evaluation to be implemented in the next reference client release
 
@@ -169,3 +169,4 @@ RSK Improvement Proposals
 | SMS      | Sebastian Matias Sicardi     | sebastians@iovlabs.org |
 | MP       | Martin Picco                 | mpicco@iovlabs.org |
 | PMP      | Pedro Meulen Prete           | pedro@iovlabs.org |
+| PGP      | Pamela Gonzalez Perilli      | pamela@iovlabs.org |
