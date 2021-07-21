@@ -1,4 +1,4 @@
-** This document is a draft pre-RSKIP for consideration in the next RSK hard fork **
+** This document is a draft RSKIP for consideration in the next RSK hard fork **
 
 | RSKIP         | X                                |
 | :------------ |:---------------------------------|
